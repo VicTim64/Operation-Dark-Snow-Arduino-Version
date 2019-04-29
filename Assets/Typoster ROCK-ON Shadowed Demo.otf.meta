@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7009a1bca7a617b468667fba51e8fe39
+timeCreated: 1513320421
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ROCK-ON Shadowed Demo
+  fontNames:
+  - ROCK-ON Shadowed Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
